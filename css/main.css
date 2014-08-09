@@ -1,0 +1,21 @@
+body {
+	background-color: green;
+}
+
+#frog {
+	background-image: url(http://metamythic.com/wp-content/upld/2013/03/frog-photo-31-poison-arrow-frog-728x485.jpg);
+	width: 700px;
+	height: 480px;
+	margin-left: auto;
+	margin-right: auto;
+	z-index: 1;
+}
+button {
+	background-color: ;
+	position: relative;
+	top: 200px;
+	left: 700px;
+	height: 20px;
+	width: 70px;
+	z-index: 5;
+}
